@@ -1,0 +1,1 @@
+template : https://jamstackthemes.dev/theme/hugo-anatole/
